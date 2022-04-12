@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/finical-advising-website/static/css/main.e5cd724f.css",
-    "main.js": "/finical-advising-website/static/js/main.277fdb45.js",
+    "main.js": "/finical-advising-website/static/js/main.158c17de.js",
     "static/media/hero.jpg": "/finical-advising-website/static/media/hero.8562676a6412e9ec4644.jpg",
     "static/media/john-doe.png": "/finical-advising-website/static/media/john-doe.e4675f127b56d41e5c8a.png",
     "static/media/logo.png": "/finical-advising-website/static/media/logo.014fa922a0314801d50d.png",
     "index.html": "/finical-advising-website/index.html",
     "main.e5cd724f.css.map": "/finical-advising-website/static/css/main.e5cd724f.css.map",
-    "main.277fdb45.js.map": "/finical-advising-website/static/js/main.277fdb45.js.map"
+    "main.158c17de.js.map": "/finical-advising-website/static/js/main.158c17de.js.map"
   },
   "entrypoints": [
     "static/css/main.e5cd724f.css",
-    "static/js/main.277fdb45.js"
+    "static/js/main.158c17de.js"
   ]
 }
