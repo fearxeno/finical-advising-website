@@ -1,0 +1,39 @@
+.footer{
+    display: grid;
+    
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer .nav-item{
+    margin: 2rem;
+}
+
+.footer .nav-item>a{
+    color: white;
+}
+
+.footer .nav-item>a:hover{
+    padding-bottom: 12px;
+    border-bottom: 3px solid var(--secondary-color);
+}
+
+.footer .bottom{
+    text-align: center;
+    color: white;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+@media (max-width:960px){
+    .footer{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer .nav-menu{
+        flex-direction: column;
+        text-align: center;
+    }
+}

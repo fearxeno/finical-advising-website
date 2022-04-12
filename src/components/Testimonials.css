@@ -1,0 +1,52 @@
+
+.testimonials .container {
+  /* height: 100%; */
+  text-align: center;
+  margin: 2rem;
+}
+
+.testimonials .container h2 {
+  margin-bottom: 5rem;
+  font-size: 60px;
+}
+
+.testimonials .content {
+  /* height: 100%; */
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+
+.content .card {
+  text-align: left;
+  padding: 1rem;
+  box-shadow: 0 3px 10px rgb(0, 0, 0, 0.2);
+  border-radius: 2rem;
+}
+
+.card img {
+  margin-top: -2rem;
+  border-radius: 50%;
+}
+
+.card p{
+    margin: 1rem;
+    color: rgb(0, 0, 0, 0.7);
+}
+
+.card span{
+    color:var(--primary-color);
+    font-weight: 600;
+}
+
+@media (max-width:960px){
+    .testimonials .container h2{
+        font-size: 50px;
+    }
+    .testimonials .content{
+        grid-template-columns: 1fr;
+    }
+    .content .card{
+        margin-bottom: 2rem;
+    }
+}
