@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+
 import './index.css';
-import App from './App';
+
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import About from './components/About'
@@ -13,13 +14,13 @@ import Footer from './components/Footer'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
-    {/* <Navbar />
+    {/* <App /> */}
+    <Navbar />
     <Hero />
     <About />
     <Testimonials />
     <Demo />
-    <Footer /> */}
+    <Footer />
   </React.StrictMode>,
   document.getElementById('root')
 );
