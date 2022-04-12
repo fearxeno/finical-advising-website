@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Finical-advising-website/static/css/main.6069d08a.css",
+    "main.js": "/Finical-advising-website/static/js/main.0248ccb1.js",
+    "static/media/hero.jpg": "/Finical-advising-website/static/media/hero.8562676a6412e9ec4644.jpg",
+    "static/media/john-doe.png": "/Finical-advising-website/static/media/john-doe.e4675f127b56d41e5c8a.png",
+    "static/media/logo.png": "/Finical-advising-website/static/media/logo.014fa922a0314801d50d.png",
+    "index.html": "/Finical-advising-website/index.html",
+    "main.6069d08a.css.map": "/Finical-advising-website/static/css/main.6069d08a.css.map",
+    "main.0248ccb1.js.map": "/Finical-advising-website/static/js/main.0248ccb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6069d08a.css",
+    "static/js/main.0248ccb1.js"
+  ]
+}
