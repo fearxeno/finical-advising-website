@@ -14,8 +14,8 @@
 
 
 # Technologies:
--React
--CSS
+- React
+- CSS
 
 # Setup:
 Clone this repo to your desktop and run `npm install` to install all the dependencies. Run the app by `npm start`
